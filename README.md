@@ -1,5 +1,5 @@
 
-# Technical exercise for Anvyl interview for Integration Solutions Engineer
+# Anvyl Technical exercise for Integration Solutions Engineer
 
 ### 1) Anvyl allows you to create suppliers via API, please create a supplier called “[Your name]’s supplier” and provide us the supplier ID. 
 
