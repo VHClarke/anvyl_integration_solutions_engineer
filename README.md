@@ -7,7 +7,7 @@ Supplier ID: 31037
 
 Endpoint: https://api.anvyl.com/api/v1/teams/591/suppliers?supplier[name]=Vanessa
 
-![alt screenshot](exercies_one.png.png)
+![alt screenshot](exercies_one.png)
 
 #### 2) Anvyl also allows you to create parts via API, please create a part called “[Your Name]’s 32oz bottle” with SKU number = A002468. Provide us the part ID that you just created.
 
