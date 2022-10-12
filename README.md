@@ -28,7 +28,7 @@ PATCH https://api.anvyl.com/api/v1/teams/591/parts/426429?part[tags][]=summer21&
 
 PATCH https://api.anvyl.com/api/v1/teams/591/suppliers/31037?supplier[parts][][id]=426429
 
-![alt screenshot](exercises_three_1.png)
+![alt screenshot](exercises_three_2.png)
 
 
 #### 4) A new startup that focuses on making different water bottles would like to issue a purchase order for the 32oz bottle that you just created. They’d like to order 20,000 bottles at $0.80/bottle price point, can you create and issue a purchase order via API for them? What’s the PO ID? 
