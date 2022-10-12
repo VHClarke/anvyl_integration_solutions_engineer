@@ -5,6 +5,15 @@
 
 #### 2) Anvyl also allows you to create parts via API, please create a part called “[Your Name]’s 32oz bottle” with SKU number = A002468. Provide us the part ID that you just created.
 
+Part ID: 426429
+
+Endpoint
+https://api.anvyl.com/api/v1/teams/591/parts?part[sku]=A002468&part[name]=Vanessa  32oz bottle
+
+[Screenshot](exercises_two.png)
+
+
+
 #### 3) Can you add in two tags (summer21, new) for the part and connect the part to the supplier you just created?
 
 #### 4) A new startup that focuses on making different water bottles would like to issue a purchase order for the 32oz bottle that you just created. They’d like to order 20,000 bottles at $0.80/bottle price point, can you create and issue a purchase order via API for them? What’s the PO ID? 
