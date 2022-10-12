@@ -10,8 +10,7 @@ Part ID: 426429
 Endpoint
 https://api.anvyl.com/api/v1/teams/591/parts?part[sku]=A002468&part[name]=Vanessa  32oz bottle
 
-[Screenshot](exercises_two.png)
-
+![alt screenshot](exercises_two.png)
 
 
 #### 3) Can you add in two tags (summer21, new) for the part and connect the part to the supplier you just created?
