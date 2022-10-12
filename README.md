@@ -3,7 +3,7 @@
 
 #### 1) Anvyl allows you to create suppliers via API, please create a supplier called “[Your name]’s supplier” and provide us the supplier ID. 
 
-** Supplier ID: 31037 **
+Supplier ID: 31037
 
 Endpoint: 
 POST https://api.anvyl.com/api/v1/teams/591/suppliers?supplier[name]=Vanessa
@@ -35,8 +35,7 @@ PATCH https://api.anvyl.com/api/v1/teams/591/suppliers/31037?supplier[parts][][i
 PO ID: 88068
 
 Endpoint: 
-https://api.anvyl.com/api/v1/teams/591/purchase_orders?purchase_order[order_items][][part_id]=426429&purchase_order[supplier][id]=31037&purchase_order[order_items][][quantity]
-=20000&purchase_order[order_items][][unit_price_micros]=0.80&purchase_order[currency]=USD&purchase_order[order_items][][unit_of_measure]=unit&purchase_order[ships_on]=2022-10-13
+https://api.anvyl.com/api/v1/teams/591/purchase_orders?purchase_order[order_items][][part_id]=426429&purchase_order[supplier][id]=31037&purchase_order[order_items][][quantity]=20000&purchase_order[order_items][][unit_price_micros]=0.80&purchase_order[currency]=USD&purchase_order[order_items][][unit_of_measure]=unit&purchase_order[ships_on]=2022-10-13
 
 ![alt screenshot](exercises_four.png)
 
